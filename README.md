@@ -40,7 +40,7 @@ Install the required Python packages.
 # Mac OS X only
 brew install unixodbc
 
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 ## Launch

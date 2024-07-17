@@ -1,3 +1,7 @@
+input/**
+output/**
 *.sql
 *.xml
+*.xsd
 .DS_Store
+.idea/**
